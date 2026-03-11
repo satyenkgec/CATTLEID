@@ -18,6 +18,7 @@ The goal of this project is to automatically identify individual cattle using th
 # Programming Language and Algorithms Used
 Programming Language
 - **Python**
+  
 Machine Learning Algorithms
 - **K-Nearest Neighbor (KNN)**
 - **Support Vector Machine (SVM)**
