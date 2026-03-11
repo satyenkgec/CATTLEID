@@ -34,8 +34,11 @@ Machine Learning Algorithms
 
 # How to Run the Program
 1.	Clone the repository from GitHub
+   
 Open command prompt or terminal
-•	git clone satyenkgec/CATTLEID: Face Image based cattle Identification
+```sh
+git clone satyenkgec/CATTLEID: Face Image based cattle Identification
+```
 2.	Navigate the repository directory
 Change your working directory to clone repository
 3.	Open Jupyter Notebook
