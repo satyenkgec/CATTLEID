@@ -37,16 +37,21 @@ Machine Learning Algorithms
    
 Open command prompt or terminal
 ```sh
-git clone satyenkgec/CATTLEID: Face Image based cattle Identification
+git clone https://github.com/satyenkgec/CATTLEID
 ```
 2.	Navigate the repository directory
+   
 Change your working directory to clone repository
-3.	Open Jupyter Notebook
-4.	Access the Notebook
+
+4.	Open Jupyter Notebook
+5.	Access the Notebook
+   
 In Jupyter Notebook, navigate to the cloned repository folder
+
 Open the .ipynb Notebook files you want to run
-5.	Run the Python code
-.
+
+7.	Run the Python code
+
 
 
 
